@@ -14,10 +14,13 @@ The purpose of this project was to use open-source software Jupyter Notebook and
         o	School performance based on the type of school
 
 ## Results:
+
+# Initial Analysis
 ![District_Summary_Initial_Analysis](https://github.com/doloresbryant83/School_District_Analysis/blob/main/District_Summary_Initial_Analysis.png)
 
 ![District_Summary_Updated_Analysis](https://github.com/doloresbryant83/School_District_Analysis/blob/main/District_Summary_Updated_Analysis.png)
 
+# Updated Analysis (Removal of Thonas High School 9th Grade Scores)
 ![School_Summary_Initial_Analysis](https://github.com/doloresbryant83/School_District_Analysis/blob/main/School_Summary_Initial%20Analysis.png)
 
 ![School_Summary_Updated_Analysis](https://github.com/doloresbryant83/School_District_Analysis/blob/main/School_Summary_Updated_Analysis.png)
