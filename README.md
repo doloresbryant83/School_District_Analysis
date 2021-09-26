@@ -31,8 +31,15 @@ The purpose of this project was to use open-source software Jupyter Notebook and
 
 -	Ninth-Grade Thomas High School Impact: The replacement of the 9th Grade math and reading scores in comparison to the other schools did not make much impact.  The scores are consistent with the other schools by a range of 1-2 percent.
 
+![Grade_Avg_Prior](https://github.com/doloresbryant83/School_District_Analysis/blob/main/Grade_Avg_Prior.png)
+![Grade_Avg_After](https://github.com/doloresbryant83/School_District_Analysis/blob/main/Grade_Avg_After.png)
 -	Math and Reading Scores by Grade: Replacing the 9th Grade student scores has made an impact to the math and reading score by 1-7% percent.
 
+![Math_Avg_Before_Analysis](https://github.com/doloresbryant83/School_District_Analysis/blob/main/Math_Avg_Before_Analysis.png)
+![Math_Avg_Post_Analysis](https://github.com/doloresbryant83/School_District_Analysis/blob/main/Math_Avg_Post_Analysis.png)
+
+![Reading_Avg_Before_Analysis](https://github.com/doloresbryant83/School_District_Analysis/blob/main/Reading_Avg_Before_Analysis.png)
+![Reading_Avg_Post_Analysis](https://github.com/doloresbryant83/School_District_Analysis/blob/main/Reading_Avg_Post_Analysis.png)
 -	Scores by school spending: The scores did not have any impact on school spending.
 
 -	Scores by school size: The scores did not have any impact on school size.
